@@ -1,0 +1,245 @@
+GO biological process complete	Escherichia coli - REFLIST (4403)	Client Text Box Input (3410)	Client Text Box Input (expected)	Client Text Box Input (over/under)	Client Text Box Input (fold Enrichment)	Client Text Box Input (raw P-value)	Client Text Box Input (FDR)
+ribonucleoside triphosphate metabolic process (GO:0009199)	31	31	24.01	+	1.29	7.19E-04	1.19E-02
+nucleotide catabolic process (GO:0009166)	30	30	23.23	+	1.29	6.79E-04	1.15E-02
+ribonucleoside monophosphate metabolic process (GO:0009161)	39	39	30.20	+	1.29	6.41E-05	1.59E-03
+purine nucleoside triphosphate metabolic process (GO:0009144)	31	31	24.01	+	1.29	7.19E-04	1.19E-02
+nucleoside diphosphate metabolic process (GO:0009132)	28	28	21.69	+	1.29	1.09E-03	1.75E-02
+tRNA aminoacylation for protein translation (GO:0006418)	25	25	19.36	+	1.29	2.85E-03	3.70E-02
+taxis (GO:0042330)	37	37	28.66	+	1.29	1.03E-04	2.37E-03
+chemotaxis (GO:0006935)	37	37	28.66	+	1.29	1.03E-04	2.35E-03
+regulation of bacterial-type flagellum-dependent cell motility (GO:1902021)	26	26	20.14	+	1.29	1.76E-03	2.57E-02
+cytokinetic process (GO:0032506)	29	29	22.46	+	1.29	1.13E-03	1.79E-02
+dipeptide transport (GO:0042938)	25	25	19.36	+	1.29	2.85E-03	3.69E-02
+ATP metabolic process (GO:0046034)	25	25	19.36	+	1.29	2.85E-03	3.67E-02
+oligopeptide transport (GO:0006857)	39	39	30.20	+	1.29	6.41E-05	1.58E-03
+regulation of locomotion (GO:0040012)	29	29	22.46	+	1.29	1.13E-03	1.78E-02
+locomotion (GO:0040011)	37	37	28.66	+	1.29	1.03E-04	2.33E-03
+lipid modification (GO:0030258)	25	25	19.36	+	1.29	2.85E-03	3.65E-02
+oligopeptide transmembrane transport (GO:0035672)	35	35	27.11	+	1.29	1.67E-04	3.44E-03
+fatty acid biosynthetic process (GO:0006633)	25	25	19.36	+	1.29	2.85E-03	3.64E-02
+nucleoside phosphate catabolic process (GO:1901292)	32	32	24.78	+	1.29	4.24E-04	7.89E-03
+ribonucleotide biosynthetic process (GO:0009260)	50	50	38.72	+	1.29	3.76E-06	1.25E-04
+ribose phosphate metabolic process (GO:0019693)	78	78	60.41	+	1.29	3.13E-09	1.88E-07
+ribose phosphate biosynthetic process (GO:0046390)	53	53	41.05	+	1.29	2.52E-06	8.65E-05
+tRNA aminoacylation (GO:0043039)	25	25	19.36	+	1.29	2.85E-03	3.62E-02
+amino acid activation (GO:0043038)	26	26	20.14	+	1.29	1.76E-03	2.56E-02
+regulation of cell motility (GO:2000145)	28	28	21.69	+	1.29	1.09E-03	1.74E-02
+cytoplasmic translation (GO:0002181)	57	57	44.14	+	1.29	5.73E-07	2.40E-05
+dicarboxylic acid biosynthetic process (GO:0043650)	38	38	29.43	+	1.29	1.05E-04	2.36E-03
+purine ribonucleoside monophosphate metabolic process (GO:0009167)	24	24	18.59	+	1.29	2.85E-03	3.61E-02
+ribonucleoside monophosphate biosynthetic process (GO:0009156)	36	36	27.88	+	1.29	1.67E-04	3.49E-03
+purine ribonucleotide biosynthetic process (GO:0009152)	36	36	27.88	+	1.29	1.67E-04	3.46E-03
+cell septum assembly (GO:0090529)	27	27	20.91	+	1.29	1.79E-03	2.56E-02
+purine ribonucleotide metabolic process (GO:0009150)	54	54	41.82	+	1.29	1.46E-06	5.41E-05
+nucleoside triphosphate metabolic process (GO:0009141)	40	40	30.98	+	1.29	6.68E-05	1.61E-03
+purine nucleoside monophosphate metabolic process (GO:0009126)	24	24	18.59	+	1.29	2.85E-03	3.60E-02
+iron-sulfur cluster assembly (GO:0016226)	24	24	18.59	+	1.29	2.85E-03	3.58E-02
+ketone biosynthetic process (GO:0042181)	27	27	20.91	+	1.29	1.79E-03	2.55E-02
+ketone metabolic process (GO:0042180)	45	45	34.85	+	1.29	1.56E-05	4.69E-04
+rRNA modification (GO:0000154)	33	33	25.56	+	1.29	4.59E-04	8.43E-03
+amino sugar metabolic process (GO:0006040)	24	24	18.59	+	1.29	2.85E-03	3.57E-02
+organophosphate catabolic process (GO:0046434)	54	54	41.82	+	1.29	1.46E-06	5.34E-05
+metallo-sulfur cluster assembly (GO:0031163)	24	24	18.59	+	1.29	2.85E-03	3.55E-02
+ribonucleotide metabolic process (GO:0009259)	72	72	55.76	+	1.29	1.28E-08	6.83E-07
+purine ribonucleoside triphosphate metabolic process (GO:0009205)	27	27	20.91	+	1.29	1.79E-03	2.54E-02
+fatty acid metabolic process (GO:0006631)	69	68	53.44	+	1.27	6.36E-07	2.62E-05
+phospholipid metabolic process (GO:0006644)	63	62	48.79	+	1.27	2.50E-06	8.79E-05
+aldehyde metabolic process (GO:0006081)	62	61	48.02	+	1.27	3.96E-06	1.28E-04
+phospholipid biosynthetic process (GO:0008654)	58	57	44.92	+	1.27	9.66E-06	3.03E-04
+purine nucleotide biosynthetic process (GO:0006164)	51	50	39.50	+	1.27	5.93E-05	1.53E-03
+dicarboxylic acid metabolic process (GO:0043648)	97	95	75.12	+	1.26	9.33E-09	5.18E-07
+nucleoside monophosphate metabolic process (GO:0009123)	47	46	36.40	+	1.26	1.43E-04	3.03E-03
+membrane organization (GO:0061024)	41	40	31.75	+	1.26	5.37E-04	9.56E-03
+nucleoside monophosphate biosynthetic process (GO:0009124)	41	40	31.75	+	1.26	5.37E-04	9.50E-03
+export across plasma membrane (GO:0140115)	34	33	26.33	+	1.25	3.13E-03	3.88E-02
+purine-containing compound biosynthetic process (GO:0072522)	67	65	51.89	+	1.25	1.10E-05	3.41E-04
+protein homooligomerization (GO:0051260)	61	59	47.24	+	1.25	4.02E-05	1.08E-03
+translation (GO:0006412)	121	117	93.71	+	1.25	3.15E-09	1.86E-07
+carbohydrate derivative catabolic process (GO:1901136)	89	86	68.93	+	1.25	5.45E-07	2.38E-05
+archaeal or bacterial-type flagellum-dependent cell motility (GO:0097588)	59	57	45.69	+	1.25	6.19E-05	1.58E-03
+bacterial-type flagellum-dependent cell motility (GO:0071973)	59	57	45.69	+	1.25	6.19E-05	1.57E-03
+cilium or flagellum-dependent cell motility (GO:0001539)	59	57	45.69	+	1.25	6.19E-05	1.55E-03
+nucleotide biosynthetic process (GO:0009165)	88	85	68.15	+	1.25	8.66E-07	3.42E-05
+purine nucleotide metabolic process (GO:0006163)	88	85	68.15	+	1.25	8.66E-07	3.38E-05
+protein-containing complex assembly (GO:0065003)	164	158	127.01	+	1.24	1.16E-11	9.59E-10
+protein complex oligomerization (GO:0051259)	80	77	61.96	+	1.24	4.62E-06	1.48E-04
+nucleobase metabolic process (GO:0009112)	52	50	40.27	+	1.24	3.37E-04	6.48E-03
+protein-RNA complex organization (GO:0071826)	50	48	38.72	+	1.24	5.13E-04	9.30E-03
+DNA repair (GO:0006281)	100	96	77.45	+	1.24	3.43E-07	1.52E-05
+protein-RNA complex assembly (GO:0022618)	50	48	38.72	+	1.24	5.13E-04	9.24E-03
+carbohydrate derivative transport (GO:1901264)	50	48	38.72	+	1.24	5.13E-04	9.19E-03
+protein tetramerization (GO:0051262)	49	47	37.95	+	1.24	8.05E-04	1.31E-02
+protein-containing complex organization (GO:0043933)	171	164	132.43	+	1.24	1.68E-11	1.34E-09
+protein homotetramerization (GO:0051289)	48	46	37.17	+	1.24	7.79E-04	1.28E-02
+rRNA metabolic process (GO:0016072)	48	46	37.17	+	1.24	7.79E-04	1.27E-02
+lipid localization (GO:0010876)	46	44	35.63	+	1.24	1.18E-03	1.84E-02
+rRNA processing (GO:0006364)	46	44	35.63	+	1.24	1.18E-03	1.83E-02
+pyridine nucleotide metabolic process (GO:0019362)	46	44	35.63	+	1.24	1.18E-03	1.82E-02
+lipid transport (GO:0006869)	46	44	35.63	+	1.24	1.18E-03	1.81E-02
+organophosphate metabolic process (GO:0019637)	317	303	245.51	+	1.23	3.88E-20	5.34E-18
+establishment of localization in cell (GO:0051649)	44	42	34.08	+	1.23	1.79E-03	2.58E-02
+phosphorus metabolic process (GO:0006793)	352	336	272.61	+	1.23	5.23E-22	1.16E-19
+nicotinamide nucleotide metabolic process (GO:0046496)	44	42	34.08	+	1.23	1.79E-03	2.57E-02
+cell motility (GO:0048870)	66	63	51.12	+	1.23	8.56E-05	2.03E-03
+DNA-templated DNA replication (GO:0006261)	43	41	33.30	+	1.23	2.73E-03	3.60E-02
+organophosphate biosynthetic process (GO:0090407)	214	204	165.74	+	1.23	2.51E-13	2.34E-11
+phosphate-containing compound metabolic process (GO:0006796)	341	325	264.09	+	1.23	7.52E-21	1.28E-18
+serine family amino acid metabolic process (GO:0009069)	42	40	32.53	+	1.23	2.71E-03	3.60E-02
+chaperone-mediated protein folding (GO:0061077)	42	40	32.53	+	1.23	2.71E-03	3.58E-02
+ribonucleoprotein complex biogenesis (GO:0022613)	104	99	80.55	+	1.23	1.09E-06	4.10E-05
+DNA replication (GO:0006260)	62	59	48.02	+	1.23	3.09E-04	6.06E-03
+ribosome biogenesis (GO:0042254)	103	98	79.77	+	1.23	1.05E-06	4.00E-05
+nucleotide metabolic process (GO:0009117)	141	134	109.20	+	1.23	8.68E-09	4.91E-07
+xenobiotic transport (GO:0042908)	40	38	30.98	+	1.23	4.08E-03	4.87E-02
+amide metabolic process (GO:0043603)	79	75	61.18	+	1.23	3.20E-05	8.96E-04
+membraneless organelle assembly (GO:0140694)	79	75	61.18	+	1.23	3.20E-05	8.87E-04
+organelle assembly (GO:0070925)	79	75	61.18	+	1.23	3.20E-05	8.79E-04
+protein folding (GO:0006457)	59	56	45.69	+	1.23	4.35E-04	8.05E-03
+cellular component assembly (GO:0022607)	275	261	212.98	+	1.23	5.20E-16	5.17E-14
+pyridine-containing compound metabolic process (GO:0072524)	57	54	44.14	+	1.22	6.49E-04	1.11E-02
+purine-containing compound metabolic process (GO:0072521)	133	126	103.00	+	1.22	6.73E-08	3.35E-06
+detoxification (GO:0098754)	75	71	58.09	+	1.22	7.13E-05	1.70E-03
+inorganic ion transmembrane transport (GO:0098660)	164	155	127.01	+	1.22	2.69E-09	1.69E-07
+cellular component biogenesis (GO:0044085)	376	355	291.20	+	1.22	2.09E-20	3.17E-18
+inorganic cation transmembrane transport (GO:0098662)	143	135	110.75	+	1.22	3.56E-08	1.80E-06
+amide transport (GO:0042886)	71	67	54.99	+	1.22	1.58E-04	3.33E-03
+ribosome assembly (GO:0042255)	53	50	41.05	+	1.22	1.44E-03	2.15E-02
+inorganic ion homeostasis (GO:0098771)	70	66	54.21	+	1.22	2.36E-04	4.80E-03
+nucleobase-containing small molecule metabolic process (GO:0055086)	243	229	188.20	+	1.22	3.93E-13	3.54E-11
+intracellular iron ion homeostasis (GO:0006879)	52	49	40.27	+	1.22	2.18E-03	3.03E-02
+pyrimidine-containing compound metabolic process (GO:0072527)	67	63	51.89	+	1.21	3.48E-04	6.64E-03
+metal ion transport (GO:0030001)	130	122	100.68	+	1.21	5.65E-07	2.43E-05
+monoatomic cation transmembrane transport (GO:0098655)	146	137	113.07	+	1.21	9.16E-08	4.41E-06
+transition metal ion transport (GO:0000041)	81	76	62.73	+	1.21	1.26E-04	2.72E-03
+nucleoside phosphate metabolic process (GO:0006753)	193	181	149.47	+	1.21	5.75E-10	3.95E-08
+RNA modification (GO:0009451)	95	89	73.57	+	1.21	3.01E-05	8.59E-04
+aerobic respiration (GO:0009060)	62	58	48.02	+	1.21	1.10E-03	1.75E-02
+sulfur compound metabolic process (GO:0006790)	122	114	94.49	+	1.21	2.59E-06	8.81E-05
+nucleobase-containing compound biosynthetic process (GO:0034654)	365	341	282.68	+	1.21	2.27E-17	2.62E-15
+intracellular chemical homeostasis (GO:0055082)	91	85	70.48	+	1.21	6.42E-05	1.57E-03
+monoatomic cation transport (GO:0006812)	197	184	152.57	+	1.21	1.43E-09	9.39E-08
+cellular homeostasis (GO:0019725)	106	99	82.09	+	1.21	1.58E-05	4.71E-04
+RNA processing (GO:0006396)	121	113	93.71	+	1.21	2.61E-06	8.75E-05
+cellular component organization or biogenesis (GO:0071840)	498	465	385.69	+	1.21	9.41E-24	2.71E-21
+response to toxic substance (GO:0009636)	90	84	69.70	+	1.21	9.74E-05	2.25E-03
+intracellular monoatomic ion homeostasis (GO:0006873)	75	70	58.09	+	1.21	3.91E-04	7.43E-03
+nucleoside phosphate biosynthetic process (GO:1901293)	120	112	92.94	+	1.21	3.78E-06	1.24E-04
+intracellular monoatomic cation homeostasis (GO:0030003)	75	70	58.09	+	1.21	3.91E-04	7.38E-03
+nucleic acid biosynthetic process (GO:0141187)	236	220	182.78	+	1.20	3.90E-11	2.96E-09
+iron ion transport (GO:0006826)	59	55	45.69	+	1.20	2.42E-03	3.33E-02
+gene expression (GO:0010467)	406	378	314.44	+	1.20	1.75E-18	2.10E-16
+homeostatic process (GO:0042592)	115	107	89.06	+	1.20	1.20E-05	3.70E-04
+RNA biosynthetic process (GO:0032774)	215	200	166.51	+	1.20	5.32E-10	3.75E-08
+chemical homeostasis (GO:0048878)	99	92	76.67	+	1.20	4.80E-05	1.27E-03
+cellular component organization (GO:0016043)	438	407	339.22	+	1.20	1.76E-19	2.21E-17
+monoatomic ion transmembrane transport (GO:0034220)	180	167	139.40	+	1.20	2.95E-08	1.52E-06
+monoatomic cation homeostasis (GO:0055080)	83	77	64.28	+	1.20	2.85E-04	5.71E-03
+monoatomic ion homeostasis (GO:0050801)	83	77	64.28	+	1.20	2.85E-04	5.67E-03
+vitamin metabolic process (GO:0006766)	81	75	62.73	+	1.20	4.11E-04	7.70E-03
+organelle organization (GO:0006996)	121	112	93.71	+	1.20	1.24E-05	3.77E-04
+small molecule biosynthetic process (GO:0044283)	307	284	237.76	+	1.19	5.87E-13	5.13E-11
+monoatomic ion transport (GO:0006811)	240	222	185.87	+	1.19	2.95E-10	2.13E-08
+water-soluble vitamin metabolic process (GO:0006767)	80	74	61.96	+	1.19	6.05E-04	1.05E-02
+biosynthetic process (GO:0009058)	1089	1007	843.40	+	1.19	9.23E-50	5.33E-47
+tRNA metabolic process (GO:0006399)	103	95	79.77	+	1.19	1.06E-04	2.35E-03
+signaling (GO:0023052)	103	95	79.77	+	1.19	1.06E-04	2.33E-03
+cell communication (GO:0007154)	103	95	79.77	+	1.19	1.06E-04	2.31E-03
+protein metabolic process (GO:0019538)	356	328	275.71	+	1.19	3.11E-14	2.99E-12
+proton transmembrane transport (GO:1902600)	76	70	58.86	+	1.19	1.23E-03	1.88E-02
+small molecule metabolic process (GO:0044281)	888	817	687.73	+	1.19	1.65E-36	6.79E-34
+organic acid metabolic process (GO:0006082)	542	498	419.76	+	1.19	7.10E-21	1.28E-18
+DNA-templated transcription (GO:0006351)	86	79	66.60	+	1.19	6.05E-04	1.05E-02
+oxoacid metabolic process (GO:0043436)	528	484	408.92	+	1.18	1.11E-19	1.45E-17
+organic anion transport (GO:0015711)	165	151	127.79	+	1.18	2.35E-06	8.36E-05
+response to heat (GO:0009408)	70	64	54.21	+	1.18	3.52E-03	4.26E-02
+amino acid metabolic process (GO:0006520)	256	234	198.26	+	1.18	2.79E-09	1.72E-07
+cellular respiration (GO:0045333)	128	117	99.13	+	1.18	3.72E-05	1.01E-03
+generation of precursor metabolites and energy (GO:0006091)	186	170	144.05	+	1.18	5.69E-07	2.41E-05
+vitamin biosynthetic process (GO:0009110)	69	63	53.44	+	1.18	3.48E-03	4.24E-02
+monosaccharide metabolic process (GO:0005996)	115	105	89.06	+	1.18	1.06E-04	2.30E-03
+carboxylic acid metabolic process (GO:0019752)	490	447	379.49	+	1.18	5.36E-17	5.52E-15
+signal transduction (GO:0007165)	91	83	70.48	+	1.18	8.54E-04	1.38E-02
+amino acid catabolic process (GO:0009063)	79	72	61.18	+	1.18	2.47E-03	3.38E-02
+cell wall organization (GO:0071555)	79	72	61.18	+	1.18	2.47E-03	3.36E-02
+organic acid biosynthetic process (GO:0016053)	203	185	157.22	+	1.18	2.73E-07	1.27E-05
+carboxylic acid biosynthetic process (GO:0046394)	203	185	157.22	+	1.18	2.73E-07	1.25E-05
+energy derivation by oxidation of organic compounds (GO:0015980)	146	133	113.07	+	1.18	1.83E-05	5.40E-04
+RNA metabolic process (GO:0016070)	268	244	207.56	+	1.18	2.58E-09	1.66E-07
+macromolecule biosynthetic process (GO:0009059)	613	557	474.75	+	1.17	2.40E-20	3.46E-18
+alpha-amino acid metabolic process (GO:1901605)	204	185	157.99	+	1.17	7.36E-07	2.99E-05
+organic acid catabolic process (GO:0016054)	204	185	157.99	+	1.17	7.36E-07	2.95E-05
+catabolic process (GO:0009056)	535	485	414.34	+	1.17	3.33E-17	3.56E-15
+carboxylic acid catabolic process (GO:0046395)	192	174	148.70	+	1.17	1.48E-06	5.35E-05
+external encapsulating structure organization (GO:0045229)	106	96	82.09	+	1.17	5.70E-04	9.96E-03
+carbohydrate derivative metabolic process (GO:1901135)	391	354	302.82	+	1.17	2.65E-12	2.25E-10
+monocarboxylic acid metabolic process (GO:0032787)	239	216	185.10	+	1.17	1.63E-07	7.73E-06
+carbohydrate catabolic process (GO:0016052)	134	121	103.78	+	1.17	1.34E-04	2.87E-03
+macromolecule localization (GO:0033036)	154	139	119.27	+	1.17	4.67E-05	1.25E-03
+response to nutrient levels (GO:0031667)	82	74	63.51	+	1.17	3.24E-03	4.00E-02
+protein maturation (GO:0051604)	92	83	71.25	+	1.16	2.23E-03	3.08E-02
+organic acid transport (GO:0015849)	142	128	109.98	+	1.16	9.17E-05	2.13E-03
+small molecule catabolic process (GO:0044282)	317	285	245.51	+	1.16	3.29E-09	1.90E-07
+nitrogen compound transport (GO:0071705)	266	239	206.01	+	1.16	8.88E-08	4.35E-06
+localization (GO:0051179)	767	689	594.02	+	1.16	4.46E-22	1.07E-19
+establishment of localization (GO:0051234)	765	687	592.47	+	1.16	6.48E-22	1.34E-19
+transport (GO:0006810)	755	678	584.73	+	1.16	1.54E-21	2.97E-19
+electron transport chain (GO:0022900)	88	79	68.15	+	1.16	4.22E-03	4.99E-02
+carboxylic acid transport (GO:0046942)	136	122	105.33	+	1.16	2.38E-04	4.81E-03
+alpha-amino acid biosynthetic process (GO:1901607)	126	113	97.58	+	1.16	4.80E-04	8.76E-03
+cell division (GO:0051301)	87	78	67.38	+	1.16	4.18E-03	4.96E-02
+cell wall organization or biogenesis (GO:0071554)	96	86	74.35	+	1.16	2.84E-03	3.70E-02
+regulation of biological quality (GO:0065008)	105	94	81.32	+	1.16	1.94E-03	2.70E-02
+amino acid biosynthetic process (GO:0008652)	142	127	109.98	+	1.15	3.09E-04	6.10E-03
+transmembrane transport (GO:0055085)	659	589	510.38	+	1.15	2.34E-17	2.60E-15
+organic acid transmembrane transport (GO:1903825)	94	84	72.80	+	1.15	3.87E-03	4.65E-02
+cellular localization (GO:0051641)	131	117	101.46	+	1.15	6.10E-04	1.05E-02
+proteinogenic amino acid metabolic process (GO:0170039)	176	157	136.31	+	1.15	6.48E-05	1.57E-03
+cellular response to chemical stimulus (GO:0070887)	157	140	121.59	+	1.15	1.92E-04	3.93E-03
+L-amino acid metabolic process (GO:0170033)	173	154	133.98	+	1.15	8.72E-05	2.05E-03
+proteinogenic amino acid biosynthetic process (GO:0170038)	107	95	82.87	+	1.15	3.25E-03	3.99E-02
+L-amino acid biosynthetic process (GO:0170034)	107	95	82.87	+	1.15	3.25E-03	3.97E-02
+macromolecule modification (GO:0043412)	142	126	109.98	+	1.15	6.87E-04	1.15E-02
+response to chemical (GO:0042221)	417	370	322.95	+	1.15	7.85E-10	5.27E-08
+carbohydrate derivative biosynthetic process (GO:1901137)	246	218	190.52	+	1.14	6.36E-06	2.02E-04
+cellular response to stimulus (GO:0051716)	573	503	443.77	+	1.13	2.22E-11	1.73E-09
+import into cell (GO:0098657)	147	129	113.85	+	1.13	1.75E-03	2.56E-02
+response to stimulus (GO:0050896)	1032	904	799.26	+	1.13	1.28E-20	2.06E-18
+response to abiotic stimulus (GO:0009628)	271	237	209.88	+	1.13	2.34E-05	6.84E-04
+metabolic process (GO:0008152)	2077	1814	1608.58	+	1.13	1.76E-51	1.27E-48
+DNA damage response (GO:0006974)	280	244	216.85	+	1.13	3.14E-05	8.89E-04
+lipid metabolic process (GO:0006629)	217	189	168.06	+	1.12	3.15E-04	6.15E-03
+cellular process (GO:0009987)	3079	2673	2384.60	+	1.12	1.43E-106	1.37E-103
+negative regulation of nucleobase-containing compound metabolic process (GO:0045934)	164	142	127.01	+	1.12	4.08E-03	4.88E-02
+cellular response to stress (GO:0033554)	417	361	322.95	+	1.12	1.02E-06	3.93E-05
+response to stress (GO:0006950)	618	532	478.62	+	1.11	9.52E-09	5.18E-07
+carbohydrate metabolic process (GO:0005975)	365	314	282.68	+	1.11	2.60E-05	7.50E-04
+primary metabolic process (GO:0044238)	1653	1422	1280.20	+	1.11	3.55E-27	1.14E-24
+biological_process (GO:0008150)	3405	2913	2637.08	+	1.10	1.29E-111	1.86E-108
+biological regulation (GO:0065007)	714	604	552.97	+	1.09	3.31E-07	1.49E-05
+regulation of biological process (GO:0050789)	678	571	525.09	+	1.09	2.51E-06	8.73E-05
+regulation of cellular process (GO:0050794)	617	516	477.85	+	1.08	4.96E-05	1.30E-03
+regulation of primary metabolic process (GO:0080090)	469	390	363.23	+	1.07	1.57E-03	2.33E-02
+regulation of metabolic process (GO:0019222)	493	409	381.81	+	1.07	1.64E-03	2.42E-02
+regulation of macromolecule metabolic process (GO:0060255)	482	399	373.30	+	1.07	2.65E-03	3.54E-02
+macromolecule metabolic process (GO:0043170)	1005	825	778.34	+	1.06	5.26E-05	1.37E-03
+nucleobase-containing compound metabolic process (GO:0006139)	741	604	573.88	+	1.05	3.80E-03	4.58E-02
+DNA metabolic process (GO:0006259)	268	168	207.56	-	.81	1.65E-08	8.64E-07
+biological process involved in interspecies interaction between organisms (GO:0044419)	53	30	41.05	-	.73	7.16E-04	1.19E-02
+defense response (GO:0006952)	31	16	24.01	-	.67	1.68E-03	2.48E-02
+response to other organism (GO:0051707)	30	15	23.23	-	.65	1.32E-03	2.01E-02
+response to external biotic stimulus (GO:0043207)	30	15	23.23	-	.65	1.32E-03	2.00E-02
+Unclassified (UNCLASSIFIED)	998	497	772.92	-	.64	1.29E-111	3.73E-108
+defense response to other organism (GO:0098542)	28	13	21.69	-	.60	3.32E-04	6.42E-03
+clearance of foreign intracellular DNA (GO:0044355)	13	5	10.07	-	.50	2.80E-03	3.67E-02
+DNA recombination (GO:0006310)	125	47	96.81	-	.49	3.17E-22	8.33E-20
+DNA modification (GO:0006304)	12	4	9.29	-	.43	1.34E-03	2.01E-02
+positive regulation of termination of DNA-templated transcription (GO:0060566)	10	3	7.74	-	.39	1.82E-03	2.57E-02
+positive regulation of protein-containing complex disassembly (GO:0043243)	10	3	7.74	-	.39	1.82E-03	2.56E-02
+DNA restriction-modification system (GO:0009307)	11	3	8.52	-	.35	5.56E-04	9.78E-03
+DNA integration (GO:0015074)	35	9	27.11	-	.33	9.70E-11	7.17E-09
+transcriptional attenuation (GO:0031555)	9	2	6.97	-	.29	6.80E-04	1.15E-02
+DNA transposition (GO:0006313)	53	4	41.05	-	.10	8.95E-28	3.23E-25
+transposition (GO:0032196)	67	4	51.89	-	.08	1.11E-36	5.34E-34
+transcriptional attenuation by ribosome (GO:0031556)	4	0	3.10	-	 < 0.01	2.57E-03	3.49E-02
+dTDP-rhamnose biosynthetic process (GO:0019305)	4	0	3.10	-	 < 0.01	2.57E-03	3.47E-02
+dTDP-rhamnose metabolic process (GO:0046383)	4	0	3.10	-	 < 0.01	2.57E-03	3.46E-02
