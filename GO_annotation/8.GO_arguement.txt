@@ -1,0 +1,1 @@
+python3 find_enrichment.py /home/minhhg/Downloads/GO_annotation/QueryO78H9/cds_clean_genes_list.txt /home/minhhg/Downloads/GO_annotation/APECO78/gene_symbols.txt /home/minhhg/Downloads/GO_annotation/genesymbol_GO.txt --pval=0.05 --method=fdr_bh --pval_field=fdr_bh --outfile=/content/drive/MyDrive/Research/results_GO.xlsx --obo /home/minhhg/Downloads/GO_annotation/go-basic.obo
