@@ -1,0 +1,22 @@
+Genome no.	Organism name	No. of core genes	No. of accessory genes	No. of unique genes	No. of exclusively absent genes
+1	Escherichia_coli_APEC_IMT5155_China	2827	1452	26	50
+2	Escherichia_coli_O1H7_Pakistan	2827	1450	101	57
+3	Escherichia_coli_O1_K1_H7_Korea	2827	1736	39	8
+4	Escherichia_coli_O2_K1_H5_Korea	2827	1710	110	9
+5	Escherichia_coli_O8H25_Laos	2827	1331	66	33
+6	Escherichia_coli_O9H21_China	2827	1735	203	2
+7	Escherichia_coli_O16H48_Indonesia	2827	987	53	25
+8	Escherichia_coli_O25H4_Denmark	2827	1319	178	17
+9	Escherichia_coli_O36H5_Pakistan	2827	1228	90	21
+10	Escherichia_coli_O76O8H9_China	2827	1324	94	8
+11	Escherichia_coli_O78H4_Australia	2827	1623	73	8
+12	Escherichia_coli_O78_H4_Korea	2827	1633	60	6
+13	Escherichia_coli_APEC_O78H9_China	2827	1661	40	1
+14	Escherichia_coli_APEC_O78H9_HPVN24_VN	2827	1593	50	3
+15	Escherichia_coli_APEC_O78H9_IMT2125_UK	2827	1228	24	59
+16	Escherichia_coli_O78_H51_Korea	2827	1563	44	8
+17	Escherichia_coli_APEC_O78_US	2827	1289	10	7
+18	Escherichia_coli_O82H8_Thailand	2827	1416	107	16
+19	Escherichia_coli_O109H51_Pakistan	2827	1804	105	14
+20	Escherichia_coli_OH5_Pakistan	2827	1157	113	53
+21	Escherichia_coli_OH32_Brunei	2827	1577	155	37
