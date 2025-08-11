@@ -1,0 +1,107 @@
+Genes,Categories
+aslA,Invasion
+astA,Enterotoxin
+chuA,Heme uptake
+chuS,Heme uptake
+chuT,Heme uptake
+chuU,Heme uptake
+chuV,Heme uptake
+chuW,Heme uptake
+chuX,Heme uptake
+chuY,Heme uptake
+csgB,Biofilm formation
+csgD,Biofilm formation
+csgF,Biofilm formation
+csgG,Biofilm formation
+entA,Enterobactin 
+entB,Enterobactin 
+entC,Enterobactin 
+entD,Enterobactin 
+entE,Enterobactin 
+entF,Enterobactin 
+entS,Enterobactin 
+espL1,Type III secretion system
+espL4,Type III secretion system
+espR1,Type III secretion system
+espR4,Type III secretion system
+espX1,Type III secretion system
+espX4,Type III secretion system
+espX5,Type III secretion system
+espY1,Type III secretion system
+fdeC,Type V secretion system autotransporter 
+fepA,Ferrienterobactin transporter
+fepB,Ferrienterobactin transporter
+fepC,Ferrienterobactin transporter
+fepD,Ferrienterobactin transporter
+fepG,Ferrienterobactin transporter
+fes,Enterobactin/ferric enterobactin esterase
+fimA,Fimbrial adhesion
+fimB,Fimbrial adhesion
+fimC,Fimbrial adhesion
+fimD,Fimbrial adhesion
+fimE,Fimbrial adhesion
+fimF,Fimbrial adhesion
+fimG,Fimbrial adhesion
+fimH,Fimbrial adhesion
+fimI,Fimbrial adhesion
+fyuA,Yersiniabactin receptor
+gspC,Type II secretion system
+gspD,Type II secretion system
+gspE,Type II secretion system
+gspF,Type II secretion system
+gspG,Type II secretion system
+gspH,Type II secretion system
+gspI,Type II secretion system
+gspJ,Type II secretion system
+gspK,Type II secretion system
+gspL,Type II secretion system
+gspM,Type II secretion system
+gtrA,O-antigen modification
+gtrB,O-antigen modification
+ibeA,Invasion protein
+iroB,Salmochelin
+iroC,Salmochelin
+iroD,Salmochelin
+iroE,Salmochelin
+iroN,Salmochelin
+irp1,Yersiniabactin synthetase
+irp2,Yersiniabactin synthetase
+iucA,Aerobactin
+iucB,Aerobactin
+iucC,Aerobactin
+iucD,Aerobactin
+iutA,Aerobactin
+kpsD,Capsule polysaccharide
+kpsM,Capsule polysaccharide
+kpsT,Capsule polysaccharide
+ompA,Adherence
+papB,Adherence
+papC,Adherence
+papD,Adherence
+papE,Adherence
+papF,Adherence
+papG,Adherence
+papH,Adherence
+papI,Adherence
+papJ,Adherence
+papK,Adherence
+papX,Adherence
+pic,Type V secretion system autotransporter 
+shuA,Heme uptake
+shuS,Heme uptake
+shuX,Heme uptake
+vat,Type V secretion system autotransporter 
+yagV/ecpE,Pilus chaperone
+yagW/ecpD,Pilus chaperone
+yagX/ecpC,Pilus chaperone
+yagY/ecpB,Pilus chaperone
+yagZ/ecpA,Pilus chaperone
+ybtA,Yersiniabactin
+ybtE,Yersiniabactin
+ybtP,Yersiniabactin
+ybtQ,Yersiniabactin
+ybtS,Yersiniabactin
+ybtT,Yersiniabactin
+ybtU,Yersiniabactin
+ybtX,Yersiniabactin
+ykgK/ecpR,Adherence
