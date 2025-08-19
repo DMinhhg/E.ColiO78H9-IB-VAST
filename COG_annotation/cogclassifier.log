@@ -1,0 +1,35 @@
+2025-08-19 04:30:04 | INFO | Run COGclassifier v2.0.0
+2025-08-19 04:30:04 | INFO | $ COGclassifier -i /content/drive/MyDrive/Research/newCOG/prokka_protein_seq_galaxy1157.fasta -o /content/drive/MyDrive/Research/newCOG/COGResults
+2025-08-19 04:30:04 | INFO | Operating System: linux
+2025-08-19 04:30:04 | INFO | Python Version: v3.11.11
+2025-08-19 04:30:04 | INFO | Parameter: infile=/content/drive/MyDrive/Research/newCOG/prokka_protein_seq_galaxy1157.fasta
+2025-08-19 04:30:04 | INFO | Parameter: outdir=/content/drive/MyDrive/Research/newCOG/COGResults
+2025-08-19 04:30:04 | INFO | Parameter: download_dir=/root/.cache/cogclassifier_v2
+2025-08-19 04:30:04 | INFO | Parameter: thread_num=95
+2025-08-19 04:30:04 | INFO | Parameter: evalue=0.01
+2025-08-19 04:30:04 | INFO | Download COG & CDD resources in NCBI FTP site
+2025-08-19 04:30:04 | INFO | Download https://ftp.ncbi.nih.gov/pub/mmdb/cdd/cddid.tbl.gz
+2025-08-19 04:30:05 | INFO | => Successfully downloaded /root/.cache/cogclassifier_v2/cddid.tbl.gz
+2025-08-19 04:30:05 | INFO | Download https://ftp.ncbi.nih.gov/pub/mmdb/cdd/little_endian/Cog_LE.tar.gz
+2025-08-19 04:30:07 | INFO | => Successfully downloaded /root/.cache/cogclassifier_v2/Cog_LE.tar.gz
+2025-08-19 04:30:07 | INFO | Unpack /root/.cache/cogclassifier_v2/Cog_LE.tar.gz => /root/.cache/cogclassifier_v2/Cog_LE
+2025-08-19 04:30:09 | INFO | Load COG Functional Category from /usr/local/lib/python3.11/site-packages/cogclassifier/resources/cog_func_category.tsv
+2025-08-19 04:30:09 | INFO | Load COG Definition from /usr/local/lib/python3.11/site-packages/cogclassifier/resources/cog_definition.tsv
+2025-08-19 04:30:09 | INFO | Load COG <=> CDD ID Conversion Table from /root/.cache/cogclassifier_v2/cddid.tbl.gz
+2025-08-19 04:30:11 | INFO | ********** Start RPS-BLAST(v2.17.0) Search **********
+2025-08-19 04:30:11 | INFO | $ rpsblast -query /content/drive/MyDrive/Research/newCOG/prokka_protein_seq_galaxy1157.fasta -db /root/.cache/cogclassifier_v2/Cog_LE/Cog -outfmt 6 -out /tmp/tmp3qkzodnr/rpsblast.tsv -evalue 0.01 -num_threads 95 -mt_mode 1
+2025-08-19 04:30:23 | INFO | ********** Finished RPS-BLAST Search **********
+2025-08-19 04:30:24 | INFO | 82.85% (3849 / 4646) sequences are classified into COG functional category
+2025-08-19 04:30:24 | INFO | Write rpsblast search result
+2025-08-19 04:30:24 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/rpsblast.tsv
+2025-08-19 04:30:24 | INFO | Write summary of COG functional category count
+2025-08-19 04:30:24 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_count.tsv
+2025-08-19 04:30:24 | INFO | Write result of COG classification per query
+2025-08-19 04:30:24 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_classify.tsv
+2025-08-19 04:30:24 | INFO | Plot COG count barchart figure
+2025-08-19 04:30:24 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_count_barchart.html
+2025-08-19 04:30:25 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_count_barchart.png
+2025-08-19 04:30:25 | INFO | Plot COG count piechart figure
+2025-08-19 04:30:26 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_count_piechart.html
+2025-08-19 04:30:26 | INFO | => /content/drive/MyDrive/Research/newCOG/COGResults/cog_count_piechart.png
+2025-08-19 04:30:26 | INFO | Done (elapsed time: 21.82[s])

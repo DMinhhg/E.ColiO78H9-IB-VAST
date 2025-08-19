@@ -1,0 +1,27 @@
+LETTER	COUNT	GROUP	COLOR	DESCRIPTION
+J	266	INFORMATION STORAGE AND PROCESSING	red	Translation, ribosomal structure and biogenesis
+A	7	INFORMATION STORAGE AND PROCESSING	red	RNA processing and modification
+K	290	INFORMATION STORAGE AND PROCESSING	red	Transcription
+L	174	INFORMATION STORAGE AND PROCESSING	red	Replication, recombination and repair
+B	8	INFORMATION STORAGE AND PROCESSING	red	Chromatin structure and dynamics
+D	55	CELLULAR PROCESSES AND SIGNALING	blue	Cell cycle control, cell division, chromosome partitioning
+Y	0	CELLULAR PROCESSES AND SIGNALING	blue	Nuclear structure
+V	109	CELLULAR PROCESSES AND SIGNALING	blue	Defense mechanisms
+T	161	CELLULAR PROCESSES AND SIGNALING	blue	Signal transduction mechanisms
+M	311	CELLULAR PROCESSES AND SIGNALING	blue	Cell wall/membrane/envelope biogenesis
+N	124	CELLULAR PROCESSES AND SIGNALING	blue	Cell motility
+Z	1	CELLULAR PROCESSES AND SIGNALING	blue	Cytoskeleton
+W	17	CELLULAR PROCESSES AND SIGNALING	blue	Extracellular structures
+U	61	CELLULAR PROCESSES AND SIGNALING	blue	Intracellular trafficking, secretion, and vesicular transport
+O	155	CELLULAR PROCESSES AND SIGNALING	blue	Posttranslational modification, protein turnover, chaperones
+X	61	CELLULAR PROCESSES AND SIGNALING	blue	Mobilome: prophages, transposons
+C	287	METABOLISM	green	Energy production and conversion
+G	400	METABOLISM	green	Carbohydrate transport and metabolism
+E	372	METABOLISM	green	Amino acid transport and metabolism
+F	115	METABOLISM	green	Nucleotide transport and metabolism
+H	184	METABOLISM	green	Coenzyme transport and metabolism
+I	135	METABOLISM	green	Lipid transport and metabolism
+P	216	METABOLISM	green	Inorganic ion transport and metabolism
+Q	53	METABOLISM	green	Secondary metabolites biosynthesis, transport and catabolism
+R	166	POORLY CHARACTERIZED	grey	General function prediction only
+S	121	POORLY CHARACTERIZED	grey	Function unknown
